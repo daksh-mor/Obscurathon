@@ -1,0 +1,17 @@
+# Web server
+flask==2.3.3
+flask-cors==4.0.0
+gunicorn==21.2.0
+
+# LangChain and RAG components
+langchain==0.1.4
+langchain-google-genai==0.0.5
+langchain-community==0.0.13
+google-generativeai==0.3.2
+faiss-cpu==1.7.4
+
+# PDF processing
+pypdf==3.17.1
+
+# Utils
+python-dotenv==1.0.0

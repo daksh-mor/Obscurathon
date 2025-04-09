@@ -1,0 +1,5 @@
+# Obscurathon/flask/req.txt
+Flask
+scikit-learn
+numpy
+joblib
